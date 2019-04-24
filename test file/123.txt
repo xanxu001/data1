@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 123456
 holy shit
+=======
+1234
+>>>>>>> 0f3595fb5ecdbb74a9d7cd5b436cfa5cbae15d4c
